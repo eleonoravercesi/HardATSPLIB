@@ -1,5 +1,5 @@
 # On the integrality Gap of Small Asymmetric TSPs: A Polyhedral and Computational Approach
-This folder contains the instances proposed in Table 2 and Table 3.
+This folder contains the instances proposed in Table 2 and Table 3 of the paper "On the integrality Gap of Small Asymmetric TSPs: A Polyhedral and Computational Approach" submitted to IPCO 2024.
 
 ## Table 2
 In the `table2` folder, the instances are provided in `npy` format.
@@ -13,7 +13,7 @@ C = np.load('table2/C_11.npy')
 ```
 Where `X` is the vertex and `C` is the cost vector.
 
-The dimension of `X` is $n \times n \times (n-1)$ where $n$ is the number of nodes in the graph. The values of the edges are here displayed in lexicographical order.
+The dimension of `X` is $n \times (n-1)$ where $n$ is the number of nodes in the graph. The values of the edges are here displayed in lexicographical order.
 The dimension of `C` is $n \times n$.
 
 ## Table 3
