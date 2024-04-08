@@ -1,5 +1,5 @@
 # On the integrality Gap of Small Asymmetric TSPs: A Polyhedral and Computational Approach
-This folder contains the instances proposed in Table 2 and Table 3 of the paper "On the integrality Gap of Small Asymmetric TSPs: A Polyhedral and Computational Approach" submitted to IPCO 2024.
+This folder contains the instances proposed in Table 2 and Table 3 of the paper "On the integrality Gap of Small Asymmetric TSPs: A Polyhedral and Computational Approach".
 
 ## Table 2
 In the `table2` folder, the instances are provided in `npy` format.
